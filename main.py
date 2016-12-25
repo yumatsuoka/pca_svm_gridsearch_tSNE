@@ -16,6 +16,8 @@ data_dim = 2
 
 # a number of training data
 N_TRAIN = 500
+# a number of labels
+n_labels = 2
 
 # if wanna use grid search, true
 use_gds = False
